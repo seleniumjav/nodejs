@@ -1,0 +1,19 @@
+20112023 	 16:29:55 	 767bb6fb-fe1f-4335-bfe9-87caff81f9a0 	 log event emitted20112023 	 16:30:27 	 07c6d844-5822-4227-99cf-a5172bbcf873 	 log event emitted20112023 	 16:30:50 	 1f89f5d0-0d56-4745-a22f-1a60495a934f 	 log event emitted
+20112023 	 16:30:57 	 ef20b615-1fac-4bfc-bd7b-f1928e2ddc0d 	 log event emitted
+21112023 	 16:31:36 	 618a1875-3258-429d-84c5-28b8ab92935b 	 /	GET
+21112023 	 16:31:36 	 b74aa89e-0778-42ba-b874-7d5f90cec7f5 	 /css/style.css	GET
+21112023 	 16:41:55 	 4fcea386-076b-4446-8f93-d2322bf3e091 	 /newpage.html	GET
+21112023 	 16:41:55 	 86d85a05-e948-4114-b5b9-c37999dc8e6c 	 /css/style.css	GET
+21112023 	 16:42:07 	 47357db9-9bba-4ed9-8651-47cf4f7fc755 	 /new-page.html	GET
+21112023 	 16:42:07 	 57a72166-8177-41de-bf34-dffd668ebab9 	 /css/style.css	GET
+21112023 	 16:42:07 	 ab07c267-b9d4-4850-a0d0-29b147aaafc4 	 /img/img1.jpg	GET
+21112023 	 16:42:31 	 2885a8e3-12c8-4973-af07-66aa0e707513 	 /new	GET
+21112023 	 16:42:31 	 8d77a53b-ebca-45b8-8417-b3ce70146bf5 	 /css/style.css	GET
+21112023 	 16:43:20 	 0d452509-d3ee-4b6b-9cd3-953384b2c2c6 	 /css/style.css	GET
+21112023 	 16:43:56 	 d79b0937-b230-4f32-bbf5-6f611f5ba98a 	 /new-page.html	GET
+21112023 	 16:43:56 	 e57f2f7b-f59d-4b0f-8200-b8648fff98c7 	 /css/style.css	GET
+21112023 	 16:43:56 	 12de0394-99ae-4ea8-a98c-6fcba4e6ea35 	 /img/img1.jpg	GET
+21112023 	 16:44:13 	 fd51c5c5-ae15-4378-b5d4-33052728cfc6 	 /index.html	GET
+21112023 	 16:44:13 	 5ea8c731-d83b-4a79-812d-625c9a76e410 	 /css/style.css	GET
+21112023 	 16:44:20 	 0590bc3e-811b-4349-b86f-73f2ff3e6d05 	 /nn	GET
+21112023 	 16:44:20 	 5d4c7966-3ed2-4e9d-be80-994cf3e718e5 	 /css/style.css	GET

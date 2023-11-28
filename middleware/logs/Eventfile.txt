@@ -1,0 +1,2 @@
+24112023 	 16:33:19 	 61a93893-619d-4463-a51a-d97d83547966 	 GET 	 undefined 	 /index.html
+24112023 	 16:33:19 	 9ca623c3-3e63-43e5-905a-eb2da50d9183 	 GET 	 undefined 	 /css/style.css
